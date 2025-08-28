@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=_#091B9D&height=300&section=header&text=capsule%20render&fontSize=90)
-# Hey Everyone!
+![header](https://capsule-render.vercel.app/api?type=wave&color=0C06A0)
+# Welcome to my GitHub 
+## About me 
 ```C++
  Name: Tayler Caufield
  Expected Graudation Year: 2026
@@ -20,6 +21,7 @@ Currently_Working_On: ["Mood Tracker App", "Python for Data Processing", "Inform
 Hobbies: ["Gaming", "Rock Climbing", "Bowling"] 
  
 ```
+## Statistics 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100C&layout=compact)
 ![Tayler's GitHub stats](https://github-readme-stats.vercel.app/api?username=01110100C&show_icons=true&theme=algolia)
 <h2> Tools I Have Used and Learned </h2>
@@ -33,6 +35,9 @@ Hobbies: ["Gaming", "Rock Climbing", "Bowling"]
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="leetcode" width="45" height="45"/>
 </p>
+
+## My Projects 
+
           
        
           
