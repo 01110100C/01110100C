@@ -1,4 +1,4 @@
-### Hey Everyone! 
+![header](https://capsule-render.vercel.app/api?type=shark&color=#091B9D&height=300&section=header&text=capsule%20render&fontSize=90)
 ```C++
  Name: Tayler Caufield
  Expected Graudation Year: 2026
