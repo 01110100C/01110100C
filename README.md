@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<!--
-**01110100C/01110100C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```yaml
-*Name: Tayler Caufield 
+ *Name: Tayler Caufield 
  Education: 
  [
    "Bachelor's in Software Development"
@@ -27,7 +24,5 @@
  ] 
 
  Hobbies: ["Gaming", "Rock Climbing", "Reading"] 
- 
-*
  
 ```
