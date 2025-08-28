@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-```yaml
- *Name: Tayler Caufield 
+```C++
+ Name: Tayler Caufield 
  Education: 
  [
    "Bachelor's in Software Development"
