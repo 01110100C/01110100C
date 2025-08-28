@@ -21,7 +21,7 @@ Hobbies: ["Gaming", "Rock Climbing", "Bowling"]
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100C&layout=compact)
 ![Tayler's GitHub stats](https://github-readme-stats.vercel.app/api?username=01110100C&show_icons=true&theme=algolia)
-<h2> Tools I have Learned </h2>
+<h2> Tools I Have Used and Learned </h2>
 <p align = "left"> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"  />
