@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0C06A0)
-# Welcome to my GitHub 
-## About me 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&text=Welcome!&height=100&section=header"/>
+</p>
+
+
+## About Me
 ```C++
  Name: Tayler Caufield
  Expected Graudation Year: 2026
@@ -11,7 +14,7 @@
 
  Fields_of_Interest:
  [
-  "Web Development"
+  "Web App Development"
   "DevOps"
   "Machine Learning"
  ]
@@ -19,15 +22,17 @@ Currently_Learning: ["Python", "React", "Azure"]
 
 Currently_Working_On: ["Mood Tracker App"]
 
-2026 Goals: ["Intership", "Daily LeetCode", "Create 10 Projects"]
+2026 Goals:
+[
+"Get a Summer Intership"
+"LeetCode Daily"
+"Create 10 Projects"
+]
 
 Hobbies: ["Gaming", "Rock Climbing", "Bowling"] 
  
 ```
-## Statistics 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100C&layout=compact)
-![Tayler's GitHub stats](https://github-readme-stats.vercel.app/api?username=01110100C&show_icons=true&theme=algolia)
-<h2> Tools I Have Used and Learned </h2>
+<h2> Some Tools I Have Used and Learned </h2>
 <p align = "left"> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"  />
@@ -39,7 +44,11 @@ Hobbies: ["Gaming", "Rock Climbing", "Bowling"]
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="leetcode" width="45" height="45"/>
 </p>
 
-## My Projects 
+## Statistics 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100C&layout=compact)
+![Tayler's GitHub stats](https://github-readme-stats.vercel.app/api?username=01110100C&show_icons=true&theme=algolia)
+
+
 
           
        
