@@ -16,7 +16,7 @@
   "Machine Learning"
  ]
 Currently_Learning: ["Python", "React", "Azure"]
-Currently_Working_On: ["Mood Tracker App", "Python for Data Processing", "Information Systems"]
+Currently_Working_On: ["Mood Tracker App"]
 2026 Goals: ["Intership", "Daily LeetCode", "Create 10 Projects"]
 Hobbies: ["Gaming", "Rock Climbing", "Bowling"] 
  
