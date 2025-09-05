@@ -20,7 +20,12 @@
  ]
 Currently_Learning: ["Python", "React", "Azure"]
 
-Currently_Working_On: ["Mood Tracker App"]
+Currently_Working_On:
+ [
+"Mood Tracker App"
+"The Odin Project"
+"Completing Neetcode 150" 
+ ]
 
 2026 Goals:
 [
@@ -29,7 +34,7 @@ Currently_Working_On: ["Mood Tracker App"]
 "Create 10 Projects"
 ]
 
-Hobbies: ["Gaming", "Rock Climbing", "Bowling"] 
+Hobbies: ["Gaming", "Rock Climbing", "Bowling", "Hiking"] 
  
 ```
 <h2> Some Tools I Have Used and Learned </h2>
