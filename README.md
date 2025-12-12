@@ -23,7 +23,7 @@ Currently_Learning: ["Python", "React", "Azure"]
 Currently_Working_On:
  [
 "Mood Tracker App"
-"The Odin Project"
+"Card Counter Raspberry Pi"
 "Completing Neetcode 150" 
  ]
 
@@ -49,9 +49,6 @@ Hobbies: ["Gaming", "Rock Climbing", "Bowling", "Hiking"]
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="leetcode" width="45" height="45"/>
 </p>
 
-## Statistics 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01110100C&layout=compact)
-![Tayler's GitHub stats](https://github-readme-stats.vercel.app/api?username=01110100C&show_icons=true&theme=algolia)
 
 
 
