@@ -7,7 +7,10 @@
 Software Developer || BAS in Software Development
 
 ## Connect With Me! 
-LinkedIn: https://www.linkedin.com/in/taylercaufield/
+<p>
+LinkedIn: https://www.linkedin.com/in/taylercaufield/ 
+</p> 
+Portfolio: 
 
 ## Tech Stack:
 <p> Frontend:
