@@ -3,38 +3,22 @@
 </p>
 
 
-## About Me
-```C++
- Name: Tayler Caufield
- Expected Graudation Year: 2026
- Education: 
- [
-   "Bachelor's in Software Development"
- ]
+# Hey there, I'm Tayler Caufield
+Software Developer || BAS in Software Development
 
- Fields_of_Interest:
- [
-  "Web App Development"
-  "DevOps"
-  "Machine Learning"
- ]
-Currently_Learning: ["Python", "React", "Azure"]
+## Connect With Me! 
+LinkedIn: https://www.linkedin.com/in/taylercaufield/
 
-Currently_Working_On:
- [
-"Mood Tracker App"
-"Card Counter Raspberry Pi"
-"Completing Neetcode 150" 
- ]
+## Tech Stack:
+ Frontend:
+  JavaScript, TypeScript, Swift, HTML, CSS, PHP
+ Backend:
+  Java, C++, Python, SQL
+ Data:
+  Pandas, NumPy, Seaborn, Relational, and unstructured Data
 
-2026 Goals:
-[
-"Get a Summer Intership"
-"LeetCode Daily"
-"Create 10 Projects"
-]
-
-Hobbies: ["Gaming", "Rock Climbing", "Bowling", "Hiking"] 
+ ## Hobbies:
+Gaming, Rock Climbing, Bowling, Hiking 
  
 ```
 <h2> Some Tools I Have Used and Learned </h2>
