@@ -19,6 +19,7 @@ LinkedIn: https://www.linkedin.com/in/taylercaufield/
 <p> Data:
   Pandas, NumPy, Seaborn, Relational, and unstructured Data
 </p>
+
  ## Hobbies:
 Gaming, Rock Climbing, Bowling, Hiking 
  
