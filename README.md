@@ -6,15 +6,15 @@
 # Hey there, I'm Tayler Caufield
 Software Developer || BAS in Software Development
 
-## Connect With Me! 
+# Connect With Me! 
 LinkedIn: https://www.linkedin.com/in/taylercaufield/
 
-## Tech Stack:
- Frontend:
+# Tech Stack:
+## Frontend:
   JavaScript, TypeScript, Swift, HTML, CSS, PHP
- Backend:
+## Backend:
   Java, C++, Python, SQL
- Data:
+## Data:
   Pandas, NumPy, Seaborn, Relational, and unstructured Data
 
  ## Hobbies:
