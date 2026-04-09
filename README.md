@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/taylercaufield/
  ## Hobbies:
 Gaming, Rock Climbing, Bowling, Hiking 
  
-```
+
 <h2> Some Tools I Have Used and Learned </h2>
 <p align = "left"> 
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
