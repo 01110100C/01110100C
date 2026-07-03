@@ -14,7 +14,11 @@ LinkedIn: https://www.linkedin.com/in/taylercaufield/
 ## Interests 
 <p> 
   DevOps
+</p>
+<p>
   Cloud Computing 
+</p>
+<p>
   Front-end Development
 </p>
 
