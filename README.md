@@ -11,6 +11,13 @@ Software Developer || BAS in Software Development
 LinkedIn: https://www.linkedin.com/in/taylercaufield/ 
 </p> 
 
+## Interests 
+<p> 
+  DevOps
+  Cloud Computing 
+  Front-end Development
+</p>
+
 ## Tech Stack:
 <p> Frontend:
   JavaScript, TypeScript, Swift, HTML, CSS, PHP
