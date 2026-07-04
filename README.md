@@ -19,7 +19,7 @@ LinkedIn: https://www.linkedin.com/in/taylercaufield/
   Cloud Computing 
 </p>
 <p>
-  Front-end Development
+  Web Development
 </p>
 
 ## Tech Stack:
