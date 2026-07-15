@@ -27,7 +27,7 @@ LinkedIn: https://www.linkedin.com/in/taylercaufield/
 
 ## Tech Stack:
 <p> Frontend:
-  JavaScript, TypeScript, Swift, HTML, CSS, PHP
+  JavaScript, TypeScript, React , HTML, CSS, PHP
 </p>
 <p> Backend:
   Java, C++, Python, SQL
