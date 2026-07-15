@@ -16,6 +16,9 @@ LinkedIn: https://www.linkedin.com/in/taylercaufield/
   DevOps
 </p>
 <p>
+  AI Engineering
+</p>
+<p>
   Cloud Computing 
 </p>
 <p>
