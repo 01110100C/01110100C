@@ -3,39 +3,46 @@
 </p>
 
 
-# Hey there, I'm Tayler Caufield
+# >> Hey there, I'm Tayler Caufield
 Software Developer || BAS in Software Development
 
-## Connect With Me! 
+## >> Connect With Me! 
+{
+
 <p>
-LinkedIn: https://www.linkedin.com/in/taylercaufield/ 
+>> LinkedIn: https://www.linkedin.com/in/taylercaufield/ 
 </p> 
 
+}
+
 ## Interests 
+{
 <p> 
-  DevOps
+ >> DevOps
 </p>
 <p>
-  AI Engineering
+>> AI Engineering
 </p>
 <p>
-  Cloud Computing 
+ >> Cloud Computing 
 </p>
 <p>
-  Web Development
+ >> Web Development
 </p>
+}
 
-## Tech Stack:
-<p> Frontend:
-  JavaScript, TypeScript, React , HTML, CSS, PHP
-</p>
-<p> Backend:
-  Java, C++, Python, SQL
-</p>
-<p> Data:
-  Pandas, NumPy, Seaborn, Relational, and unstructured Data
-</p>
-
+## >> Tech Stack:
+{
+<ul> 
+  <li> >> Java</li>
+  <li> >> React </li>
+  <li> >> Python </li>
+  <li> >> JavaScript </li>
+  <li> >> C++ </li>
+  <li> >> PHP </li>
+  <li> >> </li>
+</ul>
+}
  ## Hobbies:
  Rock Climbing, Gaming,  Bowling, Hiking 
 
