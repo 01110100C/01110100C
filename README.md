@@ -58,13 +58,6 @@ tayler@github:~$ ./run_stats.sh
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01110100C&theme=cobalt&hide_border=true&background=0A192F&stroke=00BFFF&ring=00BFFF&fire=00E5FF&currStreakLabel=00E5FF" width="48%" />
 </p>
 ```bash
-tayler@github:~$ ./contribution_graph --animated
-```
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/01110100C/01110100C/output/github-contribution-grid-snake-dark.svg" width="80%" />
-</p>
-
 ```bash
 tayler@github:~$ ping contact --unlimited
 ```
