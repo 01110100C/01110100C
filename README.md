@@ -57,10 +57,6 @@ tayler@github:~$ ./run_stats.sh
 ```
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01110100C&show_icons=true&theme=cobalt&hide_border=true&bg_color=0A192F&title_color=00BFFF&icon_color=00BFFF&text_color=00E5FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01110100C&theme=cobalt&hide_border=true&background=0A192F&stroke=00BFFF&ring=00BFFF&fire=00E5FF&currStreakLabel=00E5FF" width="48%" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01110100C&layout=compact&theme=cobalt&hide_border=true&bg_color=0A192F&title_color=00BFFF&text_color=00E5FF" width="50%" />
 </p>
 ```bash
