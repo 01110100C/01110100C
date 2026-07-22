@@ -12,23 +12,20 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tayler+Caufield;Software+Developer;Python+%7C+Java+%7C+C%2B%2B+%7C+React;Building+things+on+AWS+%26+Linux" alt="Typing SVG" />
 </h3>
-```bash
-tayler@github:~$ whoami
-```
-> **Tayler Caufield** — Software Developer
-> Working across `Python`, `Java`, `C++`, and `React`, deployed on `AWS`, developed on `Linux`.
- 
+
 ```bash
 tayler@github:~$ cat about.txt
 ```
 ```yaml
 name:        Tayler Caufield
 role:        Software Developer
-languages:   Python, Java, C++, PHP 
+languages:   Python, Java, C++, PHP, JavaScript
 frontend:    React
-cloud:       AWS
-os:          Linux, Windows 
-status:      [ ONLINE ]
+cloud:       AWS, Azure 
+os:          Linux, Windows, Mac
+working on:  Amazon Clone, Send It web application
+interests:   DevOps, Machine Learning, Web App Development 
+hobbies:     Rock climbing, Hiking, Video Games
 ```
  
 ```bash
