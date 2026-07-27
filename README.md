@@ -18,12 +18,12 @@ tayler@github:~$ cat about.txt
 ```
 ```yaml
 name:        Tayler Caufield
-role:        Software Developer
 languages:   Python, Java, C++, PHP, JavaScript
 frontend:    React
-cloud:       AWS, Azure 
+tech tools:  Docker, Redis, Git 
+cloud:       AWS
 os:          Linux, Windows, Mac
-working on:  Amazon Clone, Send It web application
+working on:  Amazon Clone, Send It Web Application
 interests:   DevOps, Machine Learning, Web App Development 
 hobbies:     Rock climbing, Hiking, Video Games
 ```
@@ -56,13 +56,11 @@ tayler@github:~$ ./run_stats.sh
 </p>
 ```bash
 ```bash
-tayler@github:~$ ping contact --unlimited
+tayler@github:~$ ping contact --LinkedIn
 ```
  
 <p align="center">
-  <a href="mailto:taylercaufield@gmail.com"><img src="https://img.shields.io/badge/-Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=000&labelColor=0A192F" /></a>
   <a href="https://www.linkedin.com/in/taylercaufield/"><img src="https://img.shields.io/badge/-LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=0A192F" /></a>
-  <a href="https://github.com/01110100C"><img src="https://img.shields.io/badge/-GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=000&labelColor=0A192F" /></a>
 </p>
 ```
 ╔══════════════════════════════════════════════════════════╗
